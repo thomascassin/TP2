@@ -6,7 +6,7 @@ pipeline{
 			echo "Hello World"
 			}
 		}
-		stage("2er etape: Nom de l etape"){
+		stage("2eme etape: Nom de l etape"){
 			steps{
 			echo "Hello World"
 			}		

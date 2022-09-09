@@ -17,8 +17,8 @@ pipeline{
                 branches: [[name: '*/master' ]],
                 extensions: scm.extensions,
                 userRemoteConfigs: [[
-                    url: 'https://github.com/SylvaineDidier/prrojet-for-training.git',
-                    credentialsId: '86ebefd1-279b-46f1-be3a-ca3094b4750d'
+                    url: 'https://github.com/thomascassin/TP2.git',
+                    credentialsId: '7d77f428-1aaa-4c9d-9bdf-075f9fbcfae1'
                 ]]
             ])
 
